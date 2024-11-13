@@ -1,6 +1,6 @@
 # Improved Authentication Login System in Django
 
-The aim is to improve upon the previous project login-system-dj by adding the following features:
+The aim is to improve upon the previous project [login-system-dj](https://github.com/luizmipc/login-system-dj) by adding the following features:
 - Authentication for all major social accounts
 - Enhanced access permissions for features
 - Email confirmation
