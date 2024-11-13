@@ -11,6 +11,7 @@ The aim is to improve upon the previous project [login-system-dj](https://github
 - Performance optimization
 - Adherence to industry standards and guidelines
 - Addition of location and phone number models
+- Addition of Terms of service 
 
 ## Password Guidelines
 - NIST Password Guidelines
