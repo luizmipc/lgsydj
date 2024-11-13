@@ -1,15 +1,16 @@
-# Improved Auth Login System in Django
-The aim is to improve from the previous project [login-system-dj](https://github.com/luizmipc/login-system-dj) by adding the following:
-- Auth for all main social accounts
-- Permission to access features improved
+# Improved Authentication Login System in Django
+
+The aim is to improve upon the previous project login-system-dj by adding the following features:
+- Authentication for all major social accounts
+- Enhanced access permissions for features
 - Email confirmation
 - Back-end tests
 - UML diagrams
 - Software documentation
-- Secure the software
-- Improve performance and optimization
-- Follow industry standards and guidelines
-- Add location and phone number models
-- 
-## Passwords
-- https://blog.netwrix.com/nist-password-guidelines
+- Security improvements
+- Performance optimization
+- Adherence to industry standards and guidelines
+- Addition of location and phone number models
+
+## Password Guidelines
+- NIST Password Guidelines
