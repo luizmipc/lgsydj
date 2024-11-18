@@ -1,5 +1,8 @@
 # Improved Authentication Login System in Django
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## Intro
 The aim is to improve upon the previous project [login-system-dj](https://github.com/luizmipc/login-system-dj) by adding the following features:
 - Authentication for all major social accounts
 - Enhanced access permissions for features
