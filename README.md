@@ -22,4 +22,4 @@ The aim is to improve upon the previous project [login-system-dj](https://github
 
 ### info resources
 css
-- https://daisyui.com/docs/use/
+- [https://daisyui.com/docs/use/](https://daisyui.com/)
