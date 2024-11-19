@@ -21,3 +21,5 @@ The aim is to improve upon the previous project [login-system-dj](https://github
 - NIST Password Guidelines
 
 ### info resources
+css
+- https://daisyui.com/docs/use/
