@@ -4,20 +4,5 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ### intro
-The aim is to improve upon the previous project [login-system-dj](https://github.com/luizmipc/login-system-dj) by adding the following features:
-- Authentication for all major social accounts
-- Enhanced access permissions for features
-- Email confirmation
-- Back-end tests
-- UML diagrams
-- Software documentation
-- Security improvements
-- Performance optimization
-- Adherence to industry standards and guidelines
-- Addition of location and phone number models
-- Addition of Terms of service 
-
-### password guidelines
-- NIST Password Guidelines
-
-### info resources
+Setting up a basic Django project with Poetry by following this tutorial:
+- https://builtwithdjango.com/blog/basic-django-setup
